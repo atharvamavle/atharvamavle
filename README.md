@@ -7,7 +7,7 @@ I'm a 21‑year‑old **AI enthusiast** and Master's student in Artificial Intel
 - 💻 Tech I use: Python, PyTorch, OpenCV, Scikit‑learn, FastAPI, React, Vite, Git & GitHub.
 - 🌱 Learning: Advanced deep learning, full‑stack deployment for AI products, and ROS for robotics.
 - 🤝 Open to: Collaborating on AI, CV, and robotics projects or hackathons.
-- 📫 Reach me: your.email@example.com · [LinkedIn](your-linkedin-url)
+- 📫 Reach me: atharvamavale26@gmail.com · (https://www.linkedin.com/in/atharva-mavale-70147a1b4/)
 
 ---
 
@@ -26,7 +26,7 @@ I'm a 21‑year‑old **AI enthusiast** and Master's student in Artificial Intel
 - 👁️ **Maths with Computer Vision** – OpenCV‑based experiments that combine image processing with mathematical concepts.
 - 🎮 **Computer Vision Balloon Game** – Hand‑gesture controlled game using OpenCV and Pygame.
 
-_(Add links to each repo once they are public.)_
+_(Socrates-Developer-AI (https://github.com/atharvamavle/Socrates-Developer-AI.git))_
 
 ---
 
