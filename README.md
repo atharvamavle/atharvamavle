@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atharva Mavale
 
-I'm a 23‑year‑old **AI enthusiast** and Master's student in Artificial Intelligence based in Australia, focused on Computer Vision, Machine Learning, and Robotics.[attached_file:1]
+I'm a 23‑year‑old **AI enthusiast** and Master's student in Artificial Intelligence based in Australia, focused on Computer Vision, Machine Learning, and Robotics.
 
 - 🔭 Currently working on: Socrates Developer – an AI tutor that helps students learn through Socratic questioning.
 - 🤖 Interests: Computer Vision, Robotics, Generative AI, and Intelligent Tutoring Systems.
