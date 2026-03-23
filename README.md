@@ -1,46 +1,48 @@
 # 👋 Hi, I'm Atharva Mavale
 
-I'm a 23‑year‑old **AI enthusiast** and Master's student in Artificial Intelligence based in Australia, focused on Computer Vision, Machine Learning, and Robotics.
+I'm an AI Engineer and Master of Applied Artificial Intelligence student at Deakin University, focused on building practical, user-facing AI systems across computer vision, NLP, robotics, and intelligent interfaces.
 
-- 🔭 Currently working on: Socrates Developer – an AI tutor that helps students learn through Socratic questioning.
-- 🤖 Interests: Computer Vision, Robotics, Generative AI, and Intelligent Tutoring Systems.
-- 💻 Tech I use: Python, PyTorch, OpenCV, Scikit‑learn, FastAPI, React, Vite, Git & GitHub.
-- 🌱 Learning: Advanced deep learning, full‑stack deployment for AI products, and ROS for robotics.
-- 🤝 Open to: Collaborating on AI, CV, and robotics projects or hackathons.
-- 📫 Reach me: atharvamavale26@gmail.com · (https://www.linkedin.com/in/atharva-mavale-70147a1b4/)
+- 🔭 Currently working on: AI products for education, safety, and healthcare, including StudyMate AI, DermaGuard AI, and a Mine Safety RAG Copilot.
+- 🤖 Interests: Computer Vision, Generative AI, LLM applications, Robotics, and Intelligent Tutoring Systems.
+- 💻 Tech I use: Python, PyTorch, FastAPI, React, Vite, LangChain, Hugging Face, OpenCV, scikit-learn, Git, and GitHub.
+- 🚀 Deployment: Render, Vercel, Netlify, and full-stack app integration.
+- 🌱 Currently learning: Advanced deep learning, production AI deployment, retrieval systems, and ROS 2 for robotics.
+- 🤝 Open to: Collaborating on AI, ML, computer vision, robotics, and hackathon projects.
+- 📫 Reach me: atharvamavale26@gmail.com · [LinkedIn](https://www.linkedin.com/in/atharva-mavale-70147a1b4/)
 
 ---
 
 ## 🎯 Current Focus
 
-- Building real‑world AI products (Socrates Developer AI tutor, Deakin Rover interface, and other CV projects).
-- Strengthening maths + ML foundations and clean coding practices for production‑ready AI.
-- Preparing for AI/ML/Computer Vision engineer roles and internships in Australia.
+- Building real-world AI systems that solve practical problems in education, safety, and healthcare.
+- Developing end-to-end products with FastAPI backends, React/Vite frontends, and integrated ML pipelines.
+- Strengthening production-ready engineering skills across deployment, retrieval pipelines, model integration, and user experience.
+- Seeking AI/ML, AI Engineering, or Computer Vision opportunities in Australia.
 
 ---
 
 ## 🏆 Highlights & Projects
 
-- 🧠 **Socrates Developer (AI Tutor)** – AI assistant that guides students using Socratic questioning, built with FastAPI, React, and NLP tools (e.g., NLTK / LLM APIs).
-- 🚗 **Deakin Rover UI** – React‑based control dashboard for a ROS‑powered rover, focusing on clean UI and future integration with robotics stack.
-- 👁️ **Maths with Computer Vision** – OpenCV‑based experiments that combine image processing with mathematical concepts.
-- 🎮 **Computer Vision Balloon Game** – Hand‑gesture controlled game using OpenCV and Pygame.
-
-_(Socrates-Developer-AI (https://github.com/atharvamavle/Socrates-Developer-AI.git))_
+- 🧠 **StudyMate AI** – An agentic Socratic tutor built with FastAPI, Streamlit, GPT-4o-mini, and LangChain, designed to guide students through adaptive learning workflows.
+- 🩺 **DermaGuard AI** – A full-stack skin cancer screening platform using React, FastAPI, PyTorch EfficientNet-B4, and Google Places API for early risk awareness, PDF reporting, and nearby hospital discovery.
+- ⛑️ **Mine Safety RAG Copilot** – A retrieval-based safety assistant that answers questions from mining manuals and standards, with ongoing YOLO-based PPE detection integration for real-time safety monitoring.
+- 🤖 **Deakin Rover / Robotics Work** – Robotics development involving ROS 2, MoveIt, rover control interfaces, and autonomous navigation support.
+- 👁️ **Math with Computer Vision** – OpenCV-based work combining image processing and mathematical interaction through gesture-driven systems.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript (basic)
-- **AI / ML:** PyTorch, Scikit‑learn, OpenCV, NumPy, Pandas
-- **Web:** React, Vite, HTML, CSS, Bootstrap / Material‑UI
-- **Tools:** Git, GitHub, VS Code, Jupyter, Linux
+- **Languages:** Python, JavaScript, SQL, Java, R
+- **AI / ML:** PyTorch, OpenCV, LangChain, YOLO, Hugging Face, scikit-learn, NLTK
+- **Web / App:** FastAPI, React, Vite, Streamlit, HTML, CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter, Linux, Render, Vercel, Netlify
+- **Robotics:** ROS 2, MoveIt
 
 ---
 
 ## 📌 What I'm Looking For
 
-- Internships and entry‑level roles in AI, Computer Vision, or Robotics.
-- Collaborations on research‑style projects, open‑source contributions, and hackathons.
-- Opportunities to build real‑time, production‑grade AI systems.
+- AI/ML, AI Engineering, and Computer Vision roles in Australia.
+- Opportunities to work on intelligent products in education, safety, healthcare, or robotics.
+- Teams building practical, production-grade AI systems with real user impact.
