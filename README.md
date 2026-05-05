@@ -10,7 +10,7 @@
 - 🤖 **AI Developer (Capstone)** at InnovAIte — YOLO + OCR pipelines, React Native navigation app
 - 🚀 **Software Engineer** at Deakin Competitive Robotics — ROS 2, MoveIt, 12th place 🏆 at 2026 Australian Rover Challenge (17 teams, 390+ students)
 - 💬 Ask me about **computer vision, LLM agents, MLOps, or ROS 2**
-- 📫 Reach me: [atharvamavale26@gmail.com](mailto:atharvamavale26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/atharva-mavale-70147a1b4/) · [Portfolio]([https://atharva-mavale.netlify.app/](https://atharva-m.netlify.app/))
+- 📫 Reach me: [atharvamavale26@gmail.com](mailto:atharvamavale26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/atharva-mavale-70147a1b4/) · [Portfolio](https://atharva-m.netlify.app/)
 
 ---
 
