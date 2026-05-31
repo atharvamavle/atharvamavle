@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:01696F,100:0d1117&height=200&section=header&text=Atharva%20Mavale&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Master%20of%20Applied%20AI%20%40%20Deakin&descAlignY=58&descSize=18&descColor=a0aec0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=01696F&width=700&lines=Building+Production-Grade+AI+Systems;Computer+Vision+%7C+LLMs+%7C+MLOps+%7C+ROS+2;Founder+of+ClauseCheck+AU+%E2%80%94+Live+AI+SaaS;12th+Place+%F0%9F%8F%86+Australian+Rover+Challenge+2026)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=01696F&center=true&width=700&lines=Building+Production-Grade+AI+Systems;Computer+Vision+%7C+LLMs+%7C+MLOps+%7C+ROS+2;Founder+of+ClauseCheck+AU+%E2%80%94+Live+AI+SaaS;12th+Place+%F0%9F%8F%86+Australian+Rover+Challenge+2026" alt="Typing SVG"/></a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-mavale-70147a1b4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atharva-m.netlify.app/)
@@ -59,10 +61,10 @@ atharva = {
 
 | | |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/atharvamavle/atharvamavle/main/assets/rover-award.jpg" width="420"/> | <img src="https://raw.githubusercontent.com/atharvamavle/atharvamavle/main/assets/rover-team.jpg" width="420"/> |
+| <img src="https://raw.githubusercontent.com/atharvamavle/atharvamavle/main/assets/rover-award.jpg" width="420"/> | <img src="https://raw.githubusercontent.com/atharvamavle/atharvamavle/main/assets/rover-team.JPG" width="420"/> |
 | *Receiving the award* | *Team with Borealis rover* |
 
-<img src="https://raw.githubusercontent.com/atharvamavle/atharvamavle/main/assets/rover-field.jpg" width="860"/>
+<img src="https://raw.githubusercontent.com/atharvamavle/atharvamavle/main/assets/rover-field.JPG" width="860"/>
 
 *Borealis — solar-powered autonomous rover built with ROS 2 + MoveIt*
 
