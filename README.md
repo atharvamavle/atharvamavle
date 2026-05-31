@@ -66,7 +66,7 @@ atharva = {
 
 <img src="https://raw.githubusercontent.com/atharvamavle/atharvamavle/main/assets/rover-field.JPG" width="860"/>
 
-*Borealis — solar-powered autonomous rover built with ROS 2 + MoveIt*
+*Team with Borealis rover*
 
 </div>
 
